@@ -1,9 +1,6 @@
-primeira linha do arquivo 
 
 Outra alteração em nosso arquivo ....
 
-Alteração para ser desfeita...
+Inclusão de  nova
 
-Inclusão de branch nova
-
-jasfjkakf
+dlsglasjgjigsijg
