@@ -1,6 +1,5 @@
-primeira linha do arquivo 
-
-Outra alteração em nosso arquivo ....
+primeira linha do arquivo ++++++++++++++
+Outra alteração em nosso
 
 Alteração para ser desfeita...
 
