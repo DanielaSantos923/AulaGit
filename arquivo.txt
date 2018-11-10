@@ -1,11 +1,12 @@
 primeira linha do arquivo ++++++++++++++
-Outra alteraÁ„o em nosso
+Outra altera√ß√£o em nosso
 
 
-Outra alteraÁ„o em nosso arquivo ...
+Outra altera√ß√£o em nosso arquivo ...
 
-Inclus„o de  nova
+Inclus√£o de  nova
 
 dlsglasjgjigsijg
 
 commit de exemplo
+commit de exemplo2 
