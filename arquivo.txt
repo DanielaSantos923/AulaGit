@@ -1,8 +1,9 @@
 primeira linha do arquivo ++++++++++++++
 Outra alteração em nosso
 
-Alteração para ser desfeita...
 
-Inclusão de branch nova
+Outra alteração em nosso arquivo ...
 
-jasfjkakf
+Inclusão de  nova
+
+dlsglasjgjigsijg
