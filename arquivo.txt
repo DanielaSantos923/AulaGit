@@ -7,3 +7,5 @@ Outra alteração em nosso arquivo ...
 Inclusão de  nova
 
 dlsglasjgjigsijg
+
+commit de exemplo
