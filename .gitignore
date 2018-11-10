@@ -1,0 +1,4 @@
+ignorar.txt
+pasta/
+fotos/*.jpg
+!pasta/img.jpg
